@@ -1,4 +1,6 @@
 # Folders
+artifacts_cv/
+artifacts_cv_0/
 nnUNet/
 apex/
 data/
