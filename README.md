@@ -1,6 +1,9 @@
 # EEG-Task
 
 Scripts used in this project explore EEG-based cognitive state classification. We preprocess EEG signals, extract features (PSD, Hjorth, Wavelet, band ratios), and experiment with machine learning models and deep learning architectures (e.g., EEGNet) to distinguish between relaxed and focused mental states.
+## Dataset
+
+The dataset can be found here -> [EEGMat](https://physionet.org/content/eegmat/1.0.0/)
 
 ## Installing the dependencies
 
